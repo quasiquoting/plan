@@ -1,0 +1,5 @@
+
+http://plan.lfe.io//atom.xml
+http://plan.lfe.io//index.html
+http://plan.lfe.io//rss.xml
+http://plan.lfe.io//sitemap.txt
